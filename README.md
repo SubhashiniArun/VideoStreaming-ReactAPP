@@ -10,8 +10,9 @@ Node.js, npm
 To run the code:
 1. Download/clone the code
 2. Do npm install
-3. Run the code using npm start
+3. Run the code using `npm start`
 4. Running the code should open the application on http://localhost:3000
+5. To test the player, run the code using `npm test`. Snapshot of the player performance will be available under 'src/coverage/index.html'
 
 
 ## Available Scripts
@@ -25,6 +26,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 
 
