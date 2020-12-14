@@ -1,7 +1,7 @@
 # VideoStreaming-ReactApp
 
 
-A complete video streaming app with a main page (/browse) with the videos listed as cards, home (/) page that provides details about the company, signin and signup pages.
+A complete video streaming app with a main page (/browse) with the videos listed as cards, home (/) page that provides details about the company, a signup page that allows new user to register into the application and a signin page that allows user login to the application.
 
 
 Project dependencies:
