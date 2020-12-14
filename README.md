@@ -12,7 +12,7 @@ To run the code:
 2. Do npm install
 3. Run the code using `npm start`
 4. Running the code should open the application on http://localhost:3000
-5. To test the player, run the code using `npm test`. Snapshot of the player performance will be available under 'src/coverage/index.html'
+5. To test the player, run the code using `npm test`. Snapshot of the player performance will be available under 'VideoStreaming-ReactAPP/coverage/index.html'
 
 
 ## Available Scripts
