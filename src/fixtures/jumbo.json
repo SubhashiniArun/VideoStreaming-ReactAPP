@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "title": "Online Films & Festivals",
+      "subTitle": "Film entries from our current and past online film festivals.",
+      "image": "/images/misc/festival.jpg",
+      "alt": "Tiger King",
+      "direction": "row"
+    },
+    {
+      "id": 2,
+      "title": "The Latest From The State.",
+      "subTitle": "News, reviews and more.",
+      "image": "/images/misc/slate.jpg",
+      "alt": "Watch on mobile",
+      "direction": "row-reverse"
+    }
+    
+  ]
