@@ -12,7 +12,7 @@ const config = {
     projectId: "hayden-tube",
     storageBucket: "",
     messagingSenderId: "",
-    appId: "1:161588459693:web:"
+    appId: ""
 };
 
 const firebase = Firebase.initializeApp(config);
